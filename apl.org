@@ -1,0 +1,3191 @@
+* Symbols
+:PROPERTIES:
+:ANKI_DECK: GNU APL
+:ID:       ab0db143-04f9-47cf-8ba0-9afdfab96b64
+:END:
+** +                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290983711
+:DRILL_CARD_TYPE: twosided
+:ID:       5187f875-9d8c-4fe2-9d1c-0925c82825b7
+:END:
+*** Front
++
+*** Back
+Pronounced: "Plus"
+
+Monadic Function: Conjugate
+
+Dyadic Function: Addition
+** -                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:DRILL_CARD_TYPE: twosided
+:ID:       f24640df-709f-49d3-932c-6a50d9aca000
+:END:
+*** Front
+-
+*** Back
+Pronounced: "Minus"
+
+Monadic Function: Negation
+
+Dyadic Function: Subtraction
+** ×                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290983861
+:DRILL_CARD_TYPE: twosided
+:ID:       1cac7289-7a5e-4b67-afbd-7986427993f2
+:END:
+*** Front
+×
+*** Back
+Pronounced: "Times"
+
+Monadic Function: Signum
+
+Dyadic Function: Multiply
+** ÷                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290983939
+:DRILL_CARD_TYPE: twosided
+:ID:       60b0ed7d-20a3-4e43-8eec-8b4b223039e0
+:END:
+*** Front
+÷
+*** Back
+Pronounced: "Divide"
+
+Monadic Function: Reciprocal
+
+Dyadic Function: Divide
+** \|                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290984011
+:DRILL_CARD_TYPE: twosided
+:ID:       8f02896b-523a-471b-99df-f798baecd998
+:END:
+*** Front
+\vert
+*** Back
+Pronounced: "Pipe"
+
+Monadic Function: Magnitude
+
+Dyadic Function: Modulo
+** *                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290984090
+:DRILL_CARD_TYPE: twosided
+:ID:       dfa09cfe-0868-4d6f-8a03-94a6c8d5fc2b
+:END:
+*** Front
+⋆
+*** Back
+Pronounced: "Star"
+
+Monadic Function: Exponential
+
+Dyadic Function: Power
+** ⍟                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290984186
+:DRILL_CARD_TYPE: twosided
+:ID:       81adb19f-57ce-4ba5-b2f0-bb9dab90b02d
+:END:
+*** Front
+⍟
+*** Back
+Pronounced: "Circle Star"
+
+Monadic Function: Natural Logarithm
+
+Dyadic Function: Logarithm
+** ⌈                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290984264
+:DRILL_CARD_TYPE: twosided
+:ID:       7e0b2f8b-c80b-4af4-9571-afa5511251f4
+:END:
+*** Front
+⌈
+*** Back
+Pronounced: "Ceiling"
+
+Monadic Function: Ceiling
+
+Dyadic Function: Maximum
+** ⌊                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290984364
+:DRILL_CARD_TYPE: twosided
+:ID:       cc42cadf-78b9-4605-8a4f-6ccbba703b17
+:END:
+*** Front
+⌊
+*** Back
+Pronounced: "Floor"
+
+Monadic Function: Floor
+
+Dyadic Function: Minimum
+** !                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290984437
+:DRILL_CARD_TYPE: twosided
+:ID:       bddca6c5-e715-483a-93de-49e09bcc6bc9
+:END:
+*** Front
+!
+*** Back
+Pronounced: "Bang"
+
+Monadic Function: Factorial
+
+Dyadic Function: Binomial
+** ○                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290984736
+:DRILL_CARD_TYPE: twosided
+:ID:       b24c4762-52de-4ffb-9c28-467bf8c6e69d
+:END:
+*** Front
+○
+*** Back
+Pronounced: "Circle"
+
+Monadic Function: Pi Times
+
+Dyadic Function: One of the Circular Functions, selected by ⍺.
+** ?                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290984811
+:DRILL_CARD_TYPE: twosided
+:ID:       3eceb067-b62d-4a79-b20b-00399bea0067
+:END:
+*** Front
+?
+*** Back
+Pronounced: "Query"
+
+Monadic Function: Roll
+
+Dyadic Function: Deal
+** ⍋                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290984890
+:DRILL_CARD_TYPE: twosided
+:ID:       9e2721fc-8164-4ecb-b9ce-6cc3b7072510
+:END:
+*** Front
+⍋
+*** Back
+Pronounced: "Grade Up"
+
+Monadic Function: Grade Up
+
+Dyadic Function: Grade Up
+** ⍒                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290984987
+:DRILL_CARD_TYPE: twosided
+:ID:       deb68592-0759-44a4-aa9e-4b467332bed0
+:END:
+*** Front
+⍒
+*** Back
+Pronounced: "Grade Down"
+
+Monadic Function: Grade Down
+
+Dyadic Function: Grade Down
+** ⌹                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290985062
+:DRILL_CARD_TYPE: twosided
+:ID:       cf8c2d84-94ed-4836-8c5f-b7767cf16258
+:END:
+*** Front
+⌹
+*** Back
+Pronounced: "Domino" or "Quad Divide"
+
+Monadic Function: Matrix Inverse
+
+Dyadic Function: Matrix Divide
+** ⍎                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290985137
+:DRILL_CARD_TYPE: twosided
+:ID:       9f1ec1c7-c7db-4008-98bd-101586f7b6a0
+:END:
+*** Front
+⍎
+*** Back
+Pronounced: "Hydrant"
+
+Monadic Function: Execute
+** ⍕                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290985215
+:DRILL_CARD_TYPE: twosided
+:ID:       bf67db22-eaff-4c53-a045-2887215c5e6b
+:END:
+*** Front
+⍕
+*** Back
+Pronounced: "Thorn"
+
+Monadic Function: Format
+
+Dyadic Function: Format
+** ⊥                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290985312
+:DRILL_CARD_TYPE: twosided
+:ID:       92719420-0f18-4cf6-8c88-0bb21c96d99c
+:END:
+*** Front
+⊥
+*** Back
+Pronounced: "Up Tack"
+
+Dyadic Function: Base
+** ⊤                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290985386
+:DRILL_CARD_TYPE: twosided
+:ID:       404e0766-3223-4732-8639-df6de80fe6e1
+:END:
+*** Front
+⊤
+*** Back
+Pronounced: "Down Tack"
+
+Dyadic Function: Represent
+** \                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290985465
+:DRILL_CARD_TYPE: twosided
+:ID:       5495873b-08f8-41e8-a628-1ef7645926fc
+:END:
+*** Front
+\
+*** Back
+Pronounced: "Backslash"
+
+Dyadic Function: Expand (Along Last Axis)
+
+Operator: Scan (Along Last Axis)
+** ⍀                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290985562
+:DRILL_CARD_TYPE: twosided
+:ID:       f1ebe299-13bb-448b-ad14-1b4c80e689d1
+:END:
+*** Front
+⍀
+*** Back
+Pronounced: "Backslash Bar"
+
+Dyadic Function: Expand (Along First Axis)
+
+Operator: Scan (Along First Axis)
+** /                                                                  :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290985639
+:DRILL_CARD_TYPE: twosided
+:ID:       6b009f82-a2ef-4298-8171-26c16cf7ffef
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:20]
+:END:
+*** Front
+/
+*** Back
+Pronounced: "Slash"
+
+Dyadic Function: Replicate (Along Last Axis)
+
+Operator: Reduce (Along Last Axis)
+
+Dyadic Operator: N-Wise Reduce (Along Last Axis)
+** ⌿                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290985739
+:DRILL_CARD_TYPE: twosided
+:ID:       d95231e7-b805-401a-a925-2ae4a9ffdf1a
+:END:
+*** Front
+⌿
+*** Back
+Pronounced: "Slash Bar"
+
+Dyadic Function: Replicate (Along First Axis)
+
+Operator: Reduce (Along First Axis)
+
+Dyadic Operator: N-Wise Reduce (Along First Axis)
+** <                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290985840
+:DRILL_CARD_TYPE: twosided
+:ID:       d6fbac71-572b-4eec-a362-625bbd5559f3
+:END:
+*** Front
+<
+*** Back
+Dyadic Function: Less Than
+** >                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290986162
+:DRILL_CARD_TYPE: twosided
+:ID:       220e7e68-3036-461b-8f2e-7d07d9e0070f
+:END:
+*** Front
+>
+*** Back
+Dyadic Function: Greater Than
+** ≤                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290986240
+:DRILL_CARD_TYPE: twosided
+:ID:       f886877f-d5e8-4856-ad41-8fdf10ef2ea1
+:END:
+*** Front
+≤
+*** Back
+Dyadic Function: Less Than or Equal To
+** ≥                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290986337
+:DRILL_CARD_TYPE: twosided
+:ID:       46a5acde-7bc0-4148-af36-5e41e46b6309
+:END:
+*** Front
+≥
+*** Back
+Dyadic Function: Greater Than or Equal To
+** =                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290986412
+:DRILL_CARD_TYPE: twosided
+:ID:       a53c33e7-4939-4062-886f-99d8446a42bf
+:END:
+*** Front
+=
+*** Back
+Dyadic Function: Equal To
+** ≠                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290986487
+:DRILL_CARD_TYPE: twosided
+:ID:       da57f09b-04fc-45cb-aea6-a9aefe6ed9af
+:END:
+*** Front
+≠
+*** Back
+Dyadic Function: Not Equal To
+** ∼                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290986565
+:DRILL_CARD_TYPE: twosided
+:ID:       a0851ba3-b24a-45ed-bec3-97f20fa988fb
+:END:
+*** Front
+~
+*** Back
+Monadic Function: Logical Not
+** ∧                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290986665
+:DRILL_CARD_TYPE: twosided
+:ID:       1d956134-0acf-44a1-91e1-35764f1a251c
+:END:
+*** Front
+∧
+*** Back
+Dyadic Function: Logical And
+** ∨                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290986739
+:DRILL_CARD_TYPE: twosided
+:ID:       939d823b-71b8-48b3-858f-3e0ad7f71386
+:END:
+*** Front
+∨
+*** Back
+Dyadic Function: Logical Or
+** ⍲                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290986814
+:DRILL_CARD_TYPE: twosided
+:ID:       ffa71223-5bd3-4141-b75f-7501eecd99a1
+:END:
+*** Front
+⍲
+*** Back
+Dyadic Function: Logical Nand
+** ⍱                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290986887
+:DRILL_CARD_TYPE: twosided
+:ID:       f7997516-86cd-4d39-9dd2-3f39187e550d
+:END:
+*** Front
+⍱
+*** Back
+Dyadic Function: Logical Nor
+** ≡                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290986962
+:DRILL_CARD_TYPE: twosided
+:ID:       eebc9404-08c1-454b-99f0-612f6d375705
+:END:
+*** Front
+≡
+*** Back
+Monadic Function: Depth
+Dyadic Function: Match
+** ∊                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:DRILL_CARD_TYPE: twosided
+:ID:       c37a5738-fcc4-482d-8bb6-7e95432e9862
+:END:
+*** Front
+∊
+*** Back
+Monadic Function: Enlist
+Dyadic Function: Membership
+** ⍷                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:DRILL_CARD_TYPE: twosided
+:ID:       42ecf221-ed68-4aa6-844f-e2d89075ab7f
+:END:
+*** Front
+⍷
+*** Back
+Dyadic Function: Find
+** ⌷                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290987387
+:DRILL_CARD_TYPE: twosided
+:ID:       eb0b3648-921f-4bef-a752-e7599c79684b
+:END:
+*** Front
+⌷
+*** Back
+Dyadic Function: Index
+** ⍳                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290987462
+:DRILL_CARD_TYPE: twosided
+:ID:       a069700a-9745-422f-a115-e6790d7e3820
+:END:
+*** Front
+⍳
+*** Back
+Monadic Function: Index Generator / iota
+Dyadic Function: Index Of
+** ⍴                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290987539
+:DRILL_CARD_TYPE: twosided
+:ID:       aa914342-dc81-4e37-9af6-ce3c72f9c8da
+:END:
+*** Front
+⍴
+*** Back
+Monadic Function: Shape Of
+Dyadic Function: Reshape
+** ⌽                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:DRILL_CARD_TYPE: twosided
+:ID:       75f61083-17e1-47a4-8552-c3f1fef021e9
+:END:
+*** Front
+⌽
+*** Back
+Monadic Function: Reverse
+Dyadic Function: Rotate
+** ⊖                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290987712
+:DRILL_CARD_TYPE: twosided
+:ID:       5546a5e5-3951-4d14-8c04-d9132547dac5
+:END:
+*** Front
+⊖
+*** Back
+Monadic Function: Reverse Vertically
+Dyadic Function: Rotate Vertically
+** ⍉                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290987790
+:DRILL_CARD_TYPE: twosided
+:ID:       9e801084-3f2a-4524-be18-61b610a5eeb8
+:END:
+*** Front
+⍉
+*** Back
+Monadic Function: Transpose
+Dyadic Function: Transpose with Control Array
+** ↑                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290987889
+:DRILL_CARD_TYPE: twosided
+:ID:       aefe25ef-388f-4873-b8c1-d8a00376bbce
+:END:
+*** Front
+↑
+*** Back
+Monadic Function: First
+Dyadic Function: Take
+** ↓                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290987990
+:DRILL_CARD_TYPE: twosided
+:ID:       9976e3c8-f38c-46c8-b002-22f41298a31d
+:END:
+*** Front
+↓
+*** Back
+Dyadic Function: Drop
+** ⊂                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290988089
+:DRILL_CARD_TYPE: twosided
+:ID:       d0078788-1e2e-4e0b-b5e4-026f16ce32b8
+:END:
+*** Front
+⊂
+*** Back
+Monadic Function: Enclose
+Dyadic Function: Partition
+** ⊃                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290988162
+:DRILL_CARD_TYPE: twosided
+:ID:       3c80ed57-c64b-4d49-a0a0-14f4e02359b2
+:END:
+*** Front
+⊃
+*** Back
+Monadic Function: Disclose
+Dyadic Function: Pick
+** ,                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290988237
+:DRILL_CARD_TYPE: twosided
+:ID:       6cb77ce2-449e-4a8a-9a56-5c6d56ec32d4
+:END:
+*** Front
+,
+*** Back
+Monadic Function: Ravel
+Dyadic Function: Catenate
+** ¨                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290988312
+:DRILL_CARD_TYPE: twosided
+:ID:       a308fe7c-04f6-4960-9239-55b389dde296
+:END:
+*** Front
+¨
+*** Back
+Operator: Each
+** .                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290988387
+:DRILL_CARD_TYPE: twosided
+:ID:       65d4bbeb-c3cb-436a-9555-92973e6f22c7
+:END:
+*** Front
+.
+*** Back
+Operator: Inner Product
+** ∘                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290988464
+:DRILL_CARD_TYPE: twosided
+:ID:       6cc563d7-be8c-470f-a804-34c6b474bf93
+:END:
+*** Front
+∘
+*** Back
+Operator: Compose
+** ∘.                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290988762
+:DRILL_CARD_TYPE: twosided
+:ID:       b57b71c1-f8fa-4ba5-b66a-f6f79704216d
+:END:
+*** Front
+∘.
+*** Back
+Operator: Compose
+** ◊                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290988837
+:DRILL_CARD_TYPE: twosided
+:ID:       296772b2-73fa-4949-b3d8-edc33ac7a337
+:END:
+*** Front
+◊
+*** Back
+Pronounced: "Diamond"
+
+Dyadic Symbol: Statement Seperator
+** ¯                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290988915
+:DRILL_CARD_TYPE: twosided
+:ID:       8cfa9d4b-0e7e-455c-b9e7-802d2d143fbe
+:END:
+*** Front
+¯
+*** Back
+Pronounced: "Negative"
+
+Monadic Symbol: Negative Number
+** ⍵                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290989012
+:DRILL_CARD_TYPE: twosided
+:ID:       08467f09-a78a-4563-aa47-73503664dfb0
+:END:
+*** Front
+⍵
+*** Back
+Pronounced: "Omega"
+
+Subject Symbol: Right Argument
+** ⍨                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290989087
+:DRILL_CARD_TYPE: twosided
+:ID:       276b1164-a546-4297-928a-fd49207638c4
+:END:
+*** Front
+⍨
+*** Back
+Pronounced: "Commute"
+
+Monadic Operator: Self
+
+Dyadic Operator: Swap
+** ⍸                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290989164
+:DRILL_CARD_TYPE: twosided
+:ID:       902ff3a7-42f7-43fb-89ee-4cbf90565087
+:END:
+*** Front
+⍸
+*** Back
+Pronounced: "Iota Underbar"
+
+Monadic Function: Indices
+
+Dyadic Function: Where
+** ⍣                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290989261
+:DRILL_CARD_TYPE: twosided
+:ID:       09a5a01b-3419-4445-a3d5-fcb91dc3b54f
+:END:
+*** Front
+⍣
+*** Back
+Pronounced: "Power"
+
+Operator: Power
+** ⍞                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290989337
+:DRILL_CARD_TYPE: twosided
+:ID:       6c69d763-41ea-4a95-90f6-cb7e4a2f322f
+:END:
+*** Front
+⍞
+*** Back
+Pronounced: "Quad Quote"
+
+Niladic: Input from Keyboard
+
+Subject: Print to stderr
+** ⍬                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290989411
+:DRILL_CARD_TYPE: twosided
+:ID:       20948d7d-eaa9-43b6-845b-2d5966d11df8
+:END:
+*** Front
+⍬
+*** Back
+Pronounced: "Zilde"
+
+Subject: Empty Numeric Vector
+** ←                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290989490
+:DRILL_CARD_TYPE: twosided
+:ID:       c98c1f57-ca7b-49be-8863-99f02492a498
+:END:
+*** Front
+←
+*** Back
+Pronounced: "Is"
+Dyadic Function: Assignment
+** →                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290989589
+:DRILL_CARD_TYPE: twosided
+:ID:       ab660dfa-a0f6-48e5-bd52-ba4f37a73b56
+:END:
+*** Front
+→
+*** Back
+Pronounced: "Branch"
+
+Monadic Function: Goto
+
+Niladic: Clear Error
+** ⊢                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290989689
+:DRILL_CARD_TYPE: twosided
+:ID:       0c9d9bd8-3f57-4f88-830d-dda6922ee81f
+:END:
+*** Front
+⊢
+*** Back
+Pronounced: "Right Tack"
+
+Monadic Function: Identity
+
+Dyadic Function: Right
+** ⊣                                                                  :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290989786
+:DRILL_CARD_TYPE: twosided
+:ID:       fc368e33-d57f-4859-a56c-7535417b3cbc
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:19]
+:END:
+*** Front
+⊣
+*** Back
+Pronounced: "Left Tack"
+
+Monadic Function: Identity
+
+Dyadic Function: Left
+** _                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290990062
+:DRILL_CARD_TYPE: twosided
+:ID:       f458f2ea-39f7-47e1-a91e-7bc480463fa9
+:END:
+*** Front
+_
+*** Back
+Pronounced: "Underbar"
+
+Subject: Character for Identifier
+** ∇                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290990136
+:DRILL_CARD_TYPE: twosided
+:ID:       73719258-4172-44e0-9cf4-95d71cd56607
+:END:
+*** Front
+∇
+*** Back
+Pronounced: "Del"
+
+System Operator: Procedure Definition Delimiter
+** ∆                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290990215
+:DRILL_CARD_TYPE: twosided
+:ID:       74d6a144-5a3a-4af3-9f53-f0ba5883332e
+:END:
+*** Front
+∆
+*** Back
+Pronounced: "Delta"
+
+Subject: Character for Identifier
+** ⍙                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290990311
+:DRILL_CARD_TYPE: twosided
+:ID:       eb2f01ce-8b0f-47b4-8958-7bcfcc29263b
+:END:
+*** Front
+⍙
+*** Back
+Pronounced: "Delta Underbar"
+
+Subject: Character for Identifier
+** ⍤                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290990387
+:DRILL_CARD_TYPE: twosided
+:ID:       344a72ee-9fe1-41ed-aa4a-c1b8dacbe411
+:END:
+*** Front
+⍤
+*** Back
+Pronounced: "Rank"
+Monadic Operator: Rank
+
+Dyadic Operator: Rank
+** ⌺o                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       cafd9751-c637-4cce-b5e9-5e3f3d779b8f
+:END:
+*** Front
+
+*** Back
+Monadic:
+Dyadic:
+Operator:
+** '                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       81716fe9-ea19-42de-89c8-d4d428229d9f
+:END:
+*** Front
+*** Back
+Monadic:
+Dyadic:
+Operator:
+** ⎕                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       f2c2d5b2-196d-46b0-b997-28ea3a9d9840
+:END:
+*** Front
+*** Back
+Monadic:
+Dyadic:
+Operator:
+** χ                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       a6d19999-fcb1-4f24-adb8-b836ddd79d0d
+:END:
+*** Front
+*** Back
+Monadic:
+Dyadic:
+Operator:
+** ⍧                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       cae1c30b-89ba-43dc-a1d8-bc14d59dc54c
+:END:
+*** Front
+*** Back
+Monadic:
+Dyadic:
+Operator:
+** ∩                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       731b698d-8636-4a12-91ac-407533ed29ac
+:END:
+*** Front
+*** Back
+Monadic:
+Dyadic:
+Operator:
+** ∪                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       2ebaf584-18c5-429a-a98c-95731d470585
+:END:
+*** Front
+*** Back
+Monadic:
+Dyadic:
+Operator:
+** £                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       2bf4cbe8-b93a-4895-936d-7f78d54868ae
+:END:
+*** Front
+*** Back
+Monadic:
+Dyadic:
+Operator:
+** ⍪                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       f63ed46c-8e54-4f69-8f3e-7553411873e3
+:END:
+*** Front
+*** Back
+Monadic:
+Dyadic:
+Operator:
+** ⍝                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       6c321382-0327-4bbd-930f-092bf0bc18cf
+:END:
+*** Front
+*** Back
+Monadic:
+Dyadic:
+Operator:
+** ⍠                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       eacda74a-d3a8-4cb7-bf38-b146bb3e64eb
+:END:
+*** Front
+*** Back
+* Algorithms
+:PROPERTIES:
+:ANKI_DECK: GNU APL
+:END:
+** Conjugate                                                          :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290991062
+:DRILL_CARD_TYPE: twosided
+:ID:       87d252c8-4708-4b92-8862-0dd0d6bbed23
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:36]
+:END:
+*** Front
+Conjugate
+*** Back
+Monadic function.
+
+If ⍵ is a real number, return ⍵. If ⍵ is complex, return
+⍵ with the imaginary part negated.
+
+-----
+
+#+begin_src gnu-apl
+      +100
+100
+      +1J2
+1J¯2
+      +1J2 2J¯3 ¯3J4
+1J¯2 2J3 ¯3J¯4
+p
+#+end_src
+** Addition                                                           :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661292601716
+:DRILL_CARD_TYPE: twosided
+:ID:       fd6abfd4-d220-4d63-8fc9-6cda9a2dce22
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:36]
+:END:
+*** Front
+Addition
+*** Back
+Dyadic function.
+
+The sum of ⍺ and ⍵.
+
+⍺ and ⍵ must be numeric values or arrays.
+
+-----
+
+#+begin_src gnu-apl
+      1+1
+2
+      1 2 3 + ¯1 ¯2 ¯3
+0 0 0
+      1 2 3 + 10
+11 12 13
+#+end_src
+** Negate                                                             :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290991139
+:DRILL_CARD_TYPE: twosided
+:ID:       55438cb3-05dc-40ec-b48a-7a88a04e665a
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:43]
+:END:
+*** Front
+Negate
+*** Back
+Monadic function.
+
+The additive inverse of ⍵.
+
+⍵ must be a number.
+
+-----
+
+#+begin_src gnu-apl
+      - 1 2 ¯3
+¯1 ¯2 3
+#+end_src
+** Subtraction                                                        :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290991436
+:DRILL_CARD_TYPE: twosided
+:ID:       5187087a-caa9-47ec-a5fd-fd4d0f98c926
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:42]
+:END:
+*** Front
+Subtraction
+*** Back
+Dyadic function.
+
+The difference between ⍺ and ⍵.
+
+⍵ and ⍺ must be numbers.
+
+-----
+
+#+begin_src gnu-apl
+      1 2 3 - 10
+¯9 ¯8 ¯7
+      (2 2⍴⍳4) - 10
+¯9 ¯8
+¯7 ¯6
+#+end_src
+** Signum                                                             :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290991512
+:DRILL_CARD_TYPE: twosided
+:ID:       5053e6be-82c9-44b4-ae32-0286f46ff8fd
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:36]
+:END:
+*** Front
+Signum
+*** Back
+Monadic function.
+
+For ⍵ = 0: 0
+Otherwise: ⍵ divided by Magnitude of ⍵.
+
+-----
+
+#+begin_src gnu-apl
+      ×10 ¯10 0 3J¯2
+1 ¯1 0 0.8320502943J¯0.5547001962
+#+end_src
+** Times                                                              :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290991589
+:DRILL_CARD_TYPE: twosided
+:ID:       800f8bca-c5bf-4cff-9d2c-385cbcb174ec
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:42]
+:END:
+*** Front
+Times
+*** Back
+Dyadic function.
+
+The product of ⍺ and ⍵.
+
+⍺ and ⍵ must be numbers. 
+
+-----
+
+#+begin_src gnu-apl
+      1 2 3 × ¯1
+¯1 ¯2 ¯3
+      0J¯1 × 0J¯1
+¯1
+#+end_src
+** Reciprocal                                                         :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290991689
+:DRILL_CARD_TYPE: twosided
+:ID:       1fdce2a2-ba43-49d6-94d1-0d9a1892d1cf
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:41]
+:END:
+*** Front
+Reciprocal
+*** Back
+Monadic function.
+
+The multiplicative inverse of ⍵.
+
+⍵ must be nonzero number.
+
+-----
+
+#+begin_src gnu-apl
+      ÷ 10 ¯10 2 3J¯2
+0.1 ¯0.1 0.5 0.2307692308J0.1538461538
+#+end_src
+** Division                                                           :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290991789
+:DRILL_CARD_TYPE: twosided
+:ID:       df04ebd6-6866-4418-b724-aa7a8613c338
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:36]
+:END:
+*** Front
+Division
+*** Back
+Dyadic function.
+
+The quotient of ⍺ and ⍵.
+
+⍺ and ⍵ must be numbers. Signals the error if If ⍵ is 0 and ⍺ is not 0. If ⍵
+is 0 and ⍺ is 0 returns 1.
+
+-----
+
+#+begin_src gnu-apl
+      1 2 0 1J2 ÷ 2 2 0 1J1
+0.5 1 1 1.5J0.5
+#+end_src
+** Magnitude                                                          :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290991890
+:DRILL_CARD_TYPE: twosided
+:ID:       cf045cd2-3d2f-48f1-9db5-c5f2fe52c473
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:42]
+:END:
+*** Front
+Magnitude
+*** Back
+Monadic function.
+
+The absolute value of ⍵.
+
+Returns the larger of ⍵ and ¯⍵.
+
+-----
+
+#+begin_src gnu-apl
+      |5 ¯5 5.4567 6J¯1 ¯3E10
+5 5 5.4567 6.08276253 3E10
+#+end_src
+** Modulo                                                             :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290991962
+:DRILL_CARD_TYPE: twosided
+:ID:       375f2388-a5e0-45a8-bdda-524d0533ed1e
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:35]
+:END:
+*** Front
+Modulo
+*** Back
+Dyadic function.
+
+The remainder in the euclidian division of ⍵ by ⍺.
+
+-----
+#+begin_src gnu-apl
+      5|3
+3
+      3|5
+2
+      7|20
+6
+      6.5|32.75
+0.25
+#+end_src
+** Exponential                                                        :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290992037
+:DRILL_CARD_TYPE: twosided
+:ID:       353f2a79-c9d1-4920-aba9-524d83747cd8
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:45]
+:END:
+*** Front
+Exponential
+*** Back
+Monadic function.
+
+e to the ⍵th power.
+
+⍵ must be a number. Raise the base of the natural algorithm e (2.718281...)
+to the power of ⍵.
+
+-----
+
+#+begin_src gnu-apl
+*1
+2.718281828
+      *0 0J1
+1 0.5403023059J0.8414709848
+#+end_src
+** Power                                                              :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290992115
+:DRILL_CARD_TYPE: twosided
+:ID:       8cd9a14e-848f-4bf1-b05e-d1869ca3d102
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:44]
+:END:
+*** Front
+Power
+*** Back
+Dyadic function.
+
+⍺^{⍵}
+
+⍺ and ⍵ must be numbers.
+
+-----
+
+#+begin_src gnu-apl
+      2*3 ¯2 1j2
+8 0.25 0.3669139495J1.966055481
+#+end_src
+** Natural Logarithm                                                  :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290992214
+:DRILL_CARD_TYPE: twosided
+:ID:       af934439-943a-46e2-a819-ae32b1d10f4b
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:44]
+:END:
+*** Front
+Natural Logarithm
+*** Back
+Monadic function.
+
+
+logₑ⍵.
+
+⍵ must be a number.
+
+-----
+
+#+begin_src gnu-apl
+      ⍟1
+0
+      ⍟2
+0.6931471806
+      ⍟2.71828
+0.9999993273      
+#+end_src
+** Logarithm                                                          :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661290992315
+:DRILL_CARD_TYPE: twosided
+:ID:       469b130d-5109-40c8-8395-f74827239e84
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:42]
+:END:
+*** Front
+Logarithm
+*** Back
+Dyadic function.
+
+log_{⍺} ⍵
+
+⍺ and ⍵ must be numbers.
+
+-----
+
+#+begin_src gnu-apl
+      2⍟8
+3
+      4⍟1464
+5.257849919
+      1.618⍟2.718
+2.077962166
+#+end_src
+** Ceiling                                                            :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310202911
+:DRILL_CARD_TYPE: twosided
+:ID:       7922bc03-17b7-45c6-bfb8-08ec82383e83
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:42]
+:END:
+*** Front
+Ceiling
+*** Back
+Monadic function.
+
+Smallest Integer ≮ ⍵.
+
+⍵ must be a number.
+
+-----
+
+#+begin_src gnu-apl
+      ⌈1.6 ¯1.6 ¯1.6J¯1 ¯1.6E10 1.6E¯2
+2 ¯1 ¯1J¯1 ¯16000000000 1
+#+end_src
+** Maximum                                                            :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310203012
+:DRILL_CARD_TYPE: twosided
+:ID:       4f14cd92-fb25-4f32-8684-a686a0efe27f
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:38]
+:END:
+*** Front
+Maximum
+*** Back
+Dyadic function.
+
+⍺ or ⍵, whichever is greater. 
+
+⍺ and ⍵ must be numbers.
+
+-----
+
+#+begin_src gnu-apl
+      1 2 3 4 5 6⌈6 5 4 3 2 1
+6 5 4 4 5 6
+#+end_src
+** Floor                                                              :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310203111
+:DRILL_CARD_TYPE: twosided
+:ID:       c3739a95-4ce7-4011-90ae-d48e55d4c0cd
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:38]
+:END:
+*** Front
+Floor
+*** Back
+Monadic function.
+
+Largest Integer ≯ ⍵.
+
+⍵ must be a number.
+
+-----
+
+#+begin_src gnu-apl
+      ⌊1.6 ¯1.6 ¯1.6J¯1 ¯1.6E10 1.6E¯2
+1 ¯2 ¯2J¯1 ¯16000000000 0
+#+end_src
+** Minimum                                                            :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310203212
+:DRILL_CARD_TYPE: twosided
+:ID:       c34595ae-62dd-4c4f-ab33-d1b296724211
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:36]
+:END:
+*** Front
+Minimum
+*** Back
+Dyadic function.
+
+⍺ or ⍵, whichever is lesser.
+
+⍺ and ⍵ must be numbers.
+
+-----
+
+#+begin_src gnu-apl
+      1 2 3 4 5 6⌊6 5 4 3 2 1
+1 2 3 3 2 1
+#+end_src
+** Factorial                                                          :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310203312
+:DRILL_CARD_TYPE: twosided
+:ID:       77e28122-ed66-4030-a588-dd4cf661e038
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:42]
+:END:
+*** Front
+Factorial
+*** Back
+Monadic function.
+
+If ⍵ is a positive integer: product of Integers ⍳⍵. If ⍵ is a real or 0:
+Gamma ⍵+1.
+
+Equivalent to ×/⍳⍵. ⍵ must be a non-negative number.
+
+
+-----
+
+#+begin_src gnu-apl
+      ! 2 5 0 1.6
+2 120 1 1.429624559
+#+end_src
+** Binomial                                                           :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310203414
+:DRILL_CARD_TYPE: twosided
+:ID:       88cb0b99-ec7d-41af-807a-c21f1d61cbb3
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:41]
+:END:
+*** Front
+Binomial
+*** Back
+Dyadic function.
+
+The number of ways to pick a unique set of ⍺ arguments out of ⍳⍵.
+
+⍺ and ⍵ must be numbers. If ⍺ is a negative integer, the result will be 0 (as
+it would be an infinity). Otherwise, this is defined in terms of
+{(!⍵)÷(!⍺)×!(⍵-⍺)}.
+
+-----
+
+#+begin_src gnu-apl
+0 1 2 3 4 5 ! 5
+1 5 10 10 5 1
+      0 1 2 3 4 5 ! 5.5
+1 5.5 12.375 14.4375 9.0234375 2.70703125
+      ¯0 ¯1 ¯2 ¯3 ¯4 ¯5 ! 5
+1 0 0 0 0 0
+      ¯0 ¯1 ¯2 ¯3 ¯4 ¯5 ! ¯5
+1 0 0 0 0 1
+      0.5 1.5 2.5 3.5 4.5 5.5 ! 5
+2.586899392 7.760698177 10.86497745 7.760698177 2.586899392 0
+      0.5 1.5 2.5 3.5 4.5 5.5 ! 5.5
+2.70703125 9.0234375 14.4375 12.375 5.5 1
+#+end_src
+** Pi Times                                                           :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310203537
+:DRILL_CARD_TYPE: twosided
+:ID:       1455a2b2-c43c-447b-a451-5ae56ec1719d
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:44]
+:END:
+*** Front
+Pi Times
+*** Back
+Monadic function.
+
+⍵×ᴨ.
+
+⍵ must be a number. Get value of ᴨ with o1.
+
+-----
+
+#+begin_src gnu-apl
+      ○1
+3.141592654
+      ○2
+6.283185307
+      ○○1
+9.869604401
+      ÷○1
+0.3183098862
+#+end_src
+** Circular Functions                                                 :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310203638
+:DRILL_CARD_TYPE: twosided
+:ID:       1fab62bf-a697-40a7-acca-637bc1668cc2
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:43]
+:END:
+*** Front
+Circular Functions
+*** Back
+Dyadic function.
+
+Varies.
+
+Trigonometric functions of B selected by A
+
+The value of ⍺ selects one of the following functions. In all cases, ⍵ must
+be a number.
+
+-----
+
+#+begin_example
+    ⍺=  0:   Z ← (1-⍵×⍵)⋆0.5
+    ⍺= ¯1:   Z ← arcsin ⍵               ⍺= 1:   Z ← sin ⍵
+    ⍺= ¯2:   Z ← arccos ⍵               ⍺= 2:   Z ← cos ⍵
+    ⍺= ¯3:   Z ← arctan ⍵               ⍺= 3:   Z ← tan ⍵
+    ⍺= ¯4:   Z ← sqrt(¯1+⍵×⍵)           ⍺= 4:   Z ← sqrt(1+⍵×⍵)
+    ⍺= ¯5:   Z ← arcsinh ⍵              ⍺= 5:   Z ← sinh ⍵
+    ⍺= ¯6:   Z ← arccosh ⍵              ⍺= 6:   Z ← cosh ⍵
+    ⍺= ¯7:   Z ← arctanh ⍵              ⍺= 7:   Z ← tanh ⍵
+    ⍺= ¯8:   Z ← -(8○⍵)                 ⍺= 8:   Z ← -sqrt(¯1+⍵×⍵) if ⍵ ≥ 0
+                                                Z ←  sqrt(¯1+⍵×⍵) if ⍵ < 0
+    ⍺= ¯9:   Z ← ⍵                      ⍺= 9:   Z ← Real part of ⍵
+    ⍺=¯10:   Z ← +⍵                     ⍺=10:   Z ← |⍵
+    ⍺=¯11:   Z ← 0J1×⍵                  ⍺=11:   Z ← Imaginary part of ⍵
+    ⍺=¯12:   Z ← ⋆0J1×⍵                 ⍺=12:   Z ← Arc ⍵
+#+end_example
+** Roll                                                               :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310203987
+:DRILL_CARD_TYPE: twosided
+:ID:       2ee27767-ed0a-4114-b7f8-f800f6b4726e
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:37]
+:END:
+*** Front
+Roll
+*** Back
+Monadic function.
+
+Integer Randomly Selected from ⍳⍵.
+
+⍵ must be a positive integer. Repeats are possible if on an array.
+
+-----
+
+#+begin_src gnu-apl
+      ? 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50
+34 25 31 26 2 29 3 21 17 30 27 35 31 36 24 46 1
+#+end_src
+** Deal                                                               :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310204087
+:DRILL_CARD_TYPE: twosided
+:ID:       e8898f8c-3446-49e4-8ab1-7f790be44af1
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:34]
+:END:
+*** Front
+Deal
+*** Back
+Dyadic function.
+
+A distinct set of integers selected randomly from ⍳⍵.
+
+Does not work with arrays on either side. Both ⍺ and ⍵ must be positive
+integers such that ⍺ ≯ ⍵, or both must be 0 (in which case nothing is
+returned).
+
+-----
+
+#+begin_src gnu-apl
+      5?5
+1 5 3 4 2
+      5?50
+11 43 41 22 14
+      0?0
+#+end_src
+** Grade Up                                                           :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310204189
+:DRILL_CARD_TYPE: twosided
+:ID:       e2e38f19-b2b0-41cc-aa72-78506d71bc8a
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:44]
+:END:
+*** Front
+Grade Up
+*** Back
+Monadic or Dyadic function.
+
+Returns an array of the same length as ⍵ such that Indexing into the
+arguments will sort ⍵ in ascending order.
+
+Dyadically, the sorted order is defined by ⍺ being ascendingly sorted, with
+both stable sorting for duplicates, and unmatched values partitioned to the
+end.
+
+-----
+
+#+begin_src gnu-apl
+⍝ Monadic
+      ⎕←A←'foo' 'bar' 'baz'
+ foo bar baz 
+      ⍋A
+2 3 1
+      A[⍋A]
+ bar baz foo
+      ⎕←B←3 1⍴'foo' 'bar' 'baz'
+ foo 
+ bar 
+ baz 
+      ⍋B
+2 3 1
+      B[⍋B;]
+ bar 
+ baz 
+ foo
+⍝ Dyadic
+      'ABCDEFGHIJKLMNOPQRSTUVWXYZ'⍋'ZAM,.BIA'
+2 8 6 7 3 1 4 5
+      'ZAM,.BIA'['ABCDEFGHIJKLMNOPQRSTUVWXYZ'⍋'ZAM,.BIA']
+AABIMZ,.
+#+end_src
+** Grade Down                                                         :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310204312
+:DRILL_CARD_TYPE: twosided
+:ID:       aa1e892f-3493-4994-b9f1-57accea67876
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:43]
+:END:
+*** Front
+Grade Down
+*** Back
+Monadic or Dyadic function.
+
+Returns an array of the same length as ⍵ such that Indexing into the
+arguments will sort ⍵ in descending order.
+
+Dyadically, the sorted order is defined by ⍺ being ascendingly sorted, with
+both stable sorting for duplicates, and unmatched values partitioned to the
+beginning.
+
+-----
+
+#+begin_src gnu-apl
+⍝ Monadic
+      ⎕←A←'foo' 'bar' 'baz'
+ foo bar baz 
+      ⍒A
+1 3 2
+      A[⍒A]
+ foo baz bar 
+      ⎕←B←3 1⍴'foo' 'bar' 'baz'
+ foo 
+ bar 
+ baz 
+      ⍒B
+1 3 2
+      B[⍒B;]
+ foo 
+ baz 
+ bar 
+⍝ Dyadic
+      'ZAM,.BIA'['ABCDEFGHIJKLMNOPQRSTUVWXYZ'⍒'ZAM,.BIA']
+,.ZMIBAA
+#+end_src
+** Matrix Inverse                                                     :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1661310204411
+:DRILL_CARD_TYPE: twosided
+:ID:       1edd9cf6-6a87-4428-b8e5-733aac6a6f27
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:44]
+:END:
+*** Front
+Matrix Inverse
+*** Back
+Monadic function.
+
+For square array of rank 2 or higher: Return the Inverse of the Array.
+
+For non-square arrays, given the count of rows > columns: The Moore-Penrose
+Inverse of the Array: src_gnu-apl[:exports code]{(+⍉⍵)⌹(+⍉⍵)+.×⍵}.
+
+For vectors (rank 1 arrays with more than 1 item): The Moore-Penrose Inverse
+of the Vector: src_gnu-apl[:exports code]{{(+⍵)÷⍵+.×+⍵}}.
+
+Note that due to the nature of floating point numbers, rounding errors may
+occur, and need to be dealt with appropriately.
+
+-----
+
+#+begin_src gnu-apl
+⍝ Square
+       ⎕←M←2 2⍴3 4 4 5
+3 4
+4 5
+      ⎕←R←⌹M
+¯5  4
+ 4 ¯3
+      R+.×M
+1 3.552713679E¯15
+0 1.000000000E0
+      ⌈R+.×M
+1 0
+0 1
+
+       ⎕←M←3 3⍴3 4 4 5
+3 4 4
+5 3 4
+4 5 3
+      ⎕←R←⌹M
+¯0.4782608696   0.347826087    0.1739130435
+ 0.04347826087 ¯0.3043478261   0.347826087
+ 0.5652173913   0.04347826087 ¯0.4782608696
+      ⌈R+.×M
+1 0 0
+0 1 0
+0 0 1
+⍝ Non-Square
+      ⌹ 3 2⍴⍳6
+¯1.333333333 ¯0.3333333333  0.6666666667
+ 1.083333333  0.3333333333 ¯0.4166666667
+      3 2⍴⍳6
+1 2
+3 4
+5 6
+      Alt←{(+⍉⍵)⌹(+⍉⍵)+.×⍵}
+      Alt 3 2⍴⍳6
+¯1.333333333 ¯0.3333333333  0.6666666667
+ 1.083333333  0.3333333333 ¯0.4166666667
+⍝ Vectors
+      ⌹ 5 2
+0.1724137931 0.06896551724
+      Alt2←{(+⍵)÷⍵+.×+⍵}
+      Alt2 5 2
+0.1724137931 0.06896551724
+#+end_src
+** Matrix Divide
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       7c176399-26ff-4009-9957-05c6367a735b
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Execute                                                            :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       1230c055-b489-4acc-9141-206ac13ebfa4
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:36]
+:END:
+*** Front
+Execute
+*** Back
+Monadic function.
+
+Result of evaluating ⍵ as APL Code.
+
+⍵ must be a character array/string.
+
+-----
+
+#+begin_src gnu-apl
+      ⍎'!5'
+120
+#+end_src
+** Format                                                             :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       69f8c7cc-fab0-4b35-b1a1-b819891f47fd
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:36]
+:END:
+*** Front
+Format
+*** Back
+Monadic or Dyadic function.
+
+Monadically: ⍵ as a character array.
+
+Dyadically: ⍵ as a character array, formatted accoring to ⍺.
+
+If ⍺ is a tuple that is a pair of integers, the first denotes the field
+length for each member and the second denotes the number of decimal places to
+use for numbers (if ⍵ is a numeric array).
+
+If ⍺ is a character array, format ⍵ according to the examples given in that
+array.
+
+⍵ is expected to be either a numeric array, or a character array. If ⍵ is a
+character array: ⍺ must be a tuple, and the second integer in the ⍺ tuple is
+ignored. If the first integer in the ⍺ tuple is omitted (or zero), it is like
+'auto', which adds 1 to the size of each field. This is the same for negative
+integers, but only for ⍵ character arrays. Uninterpretable ⍺ character arrays
+throw an error, as does an ⍺ character array if ⍵ contains a complex number.
+
+-----
+
+#+begin_src gnu-apl
+⍝ Tuple as ⍺ with string
+0⍕String
+ T h i s   i s   a   T e s t
+      1⍕String
+ T h i s   i s   a   T e s t
+      2⍕String
+ T h i s   i s   a   T e s t
+      1 0⍕String
+This is a Test
+      2 0⍕String
+ T h i s   i s   a   T e s t
+      0 0⍕String
+ T h i s   i s   a   T e s t
+      4 0⍕String
+   T   h   i   s       i   s       a       T   e   s   t
+      ¯1 0⍕String
+This is a Test
+      ¯100 0⍕String
+This is a Test
+⍝ Tuple as ⍺ with numbers
+      0⍕Numbers
+ 1464 2 61000
+      1⍕Numbers
+ 1464.0 1.6 61000.0
+      2⍕Numbers
+ 1464.00 1.62 61000.00
+      6 0⍕Numbers
+  1464     2 61000
+      6 1⍕Numbers
+⍝ Number Array Limitations
+DOMAIN ERROR
+      6 1⍕Numbers
+      ^   ^
+      7 1⍕Numbers
+ 1464.0    1.661000.0
+      8 1⍕Numbers
+  1464.0     1.6 61000.0
+      0 1⍕Numbers
+ 1464.0 1.6 61000.0
+      ¯100 1⍕Numbers
+DOMAIN ERROR
+      ¯100 1⍕Numbers
+      ^      ^
+      ¯1 1⍕Numbers
+DOMAIN ERROR
+      ¯1 1⍕Numbers
+      ^    ^
+⍝ String as ⍺ with numbers only
+      '2222 2.22222 2E10'⍕Numbers
+1464 1.618   6E4 
+      '2222 2.22222 2E1'⍕Numbers
+1464 1.618   6E4
+      '2222 Hello 2.22222 World 2E1'⍕Numbers
+1464 Hello 1.618   World 6E4
+      '2E1 Hello 2.22222 World 222222'⍕Numbers
+1E3 Hello 1.618    World 61000
+⍝ Complex Number Limitations
+      '1J1'⍕1J1
+DOMAIN ERROR
+      '1J1'⍕1J1
+      ^    ^
+      '1 1'⍕1J1
+LENGTH ERROR
+      '1 1'⍕1J1
+      ^    ^
+      '1.0'⍕1J1
+DOMAIN ERROR
+      '1.0'⍕1J1
+      ^    ^
+#+end_src
+** Base                                                               :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       b78a28a6-6502-467f-b5ef-a3ac0b15f88b
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:37]
+:END:
+*** Front
+Base
+*** Back
+Dyadic function.
+
+Return ⍵ in base-10 assuming it is currently in the base defined by ⍺.
+
+⍺ must be a number, and ⍵ must be an array of numbers. If ⍵ is a matrix,
+operate on columns.
+
+
+-----
+
+#+begin_src gnu-apl
+      2⊥0 1 1 0
+6
+      3⊥0 1 1 0
+12
+      4⊥0 1 1 0
+20
+      5⊥0 1 1 0
+30
+      10⊥0 1 1 0
+110
+      ¯1⊥0 1 1 0
+0
+      ¯100⊥0 1 1 0
+9900
+      ¯2⊥0 1 1 0
+2
+      ¯3⊥0 1 1 0
+6
+      0⊥0 1 1 0
+0
+      ¯2⊥0 1 1 0
+2
+      ¯2⊥0 0 1 0
+¯2
+      ¯2.2⊥0 0 1 0
+¯2.2
+      2.2⊥0 0 1 0
+2.2
+      2.2⊥0 2 0 0
+9.68
+      2E2⊥0 2 0 0
+80000
+      0J1⊥0 1 1 0
+¯1J1
+      0J1⊥0 1 1.1 0
+¯1J1.1
+      2⊥0 1 1.1 0
+6.2
+      4 2⍴0 1 1 0 0 1 1 0
+0 1
+1 0
+0 1
+1 0
+      2⊥(4 2⍴0 1 1 0 0 1 1 0)
+5 10
+#+end_src
+** Represent                                                          :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       3ac1de6d-1373-46d2-a678-c78b462bd93a
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:37]
+:END:
+*** Front
+Represent
+*** Back
+Dyadic function.
+
+An array representing ⍵ encoded by using ⍺ as the ranks.
+
+For encoding to bases, ⍺ needs not only the base, but the base repeated for
+each rank. This, however, allows for converting mixed base values easily. If
+⍺ is a matrix, then each column is used individually to represent ⍵.
+
+-----
+
+#+begin_src gnu-apl
+      Number←1464
+      (16⍴2)⊤Number
+0 0 0 0 0 1 0 1 1 0 1 1 1 0 0 0
+      0 7 24 60⊤Number
+0 1 0 24
+      16 3⍴2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+2 8 10
+      Number⊤⍨16 3⍴2 8 10
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+1 0 0
+0 0 0
+1 0 0
+1 0 0
+0 0 0
+1 0 0
+1 0 0
+1 2 1
+0 6 4
+0 7 6
+0 0 4
+#+end_src
+** Expand                                                             :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       63fcc930-4cbe-45bb-87f9-0559583fdb58
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:43]
+:END:
+*** Front
+Expand
+*** Back
+Dyadic function.
+
+Inserts 0s or spaces in ⍵ according to the boolean mask in ⍺.
+
+⍺ must be a boolean vector with the same number of true values as the length
+of ⍵, unless ⍺ is a scalar (length of one). Can be called to operate on the
+last axis, or the first.
+
+-----
+
+#+begin_src gnu-apl
+      1 0 1 0 0 1\'abc'
+a b  c
+      1 0 1 0 0 1\'a'
+a a  a
+      1 0 1 0 0 1\1 2 3
+1 0 2 0 0 3
+      1 0 1 0 0 1\1
+1 0 1 0 0 1
+⍝ First vs Last Axis
+TABLE←2 5⍴⍳10
+      TABLE
+1 2 3 4  5
+6 7 8 9 10
+⍝ Last
+      0 1 1 1 1 1\TABLE
+0 1 2 3 4  5
+0 6 7 8 9 10
+
+      0 1 1⍀TABLE
+0 0 0 0  0
+1 2 3 4  5
+6 7 8 9 10
+⍝ You can just use axis indexing instead, too.
+      0 1 1 1 1 1⍀[2]TABLE
+0 1 2 3 4  5
+0 6 7 8 9 10
+      0 1 1\[1]TABLE
+0 0 0 0  0
+1 2 3 4  5
+6 7 8 9 10
+#+end_src
+
+** Scan                                                               :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       87645689-b40f-491a-896c-2d6c58a7c0e6
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:42]
+:END:
+*** Front
+Scan
+*** Back
+Monadic Operator.
+
+An array representing the results of reducing ⍵ with ⍺, but containing each
+intermediate result instead of just the final result.
+
+Also known as a cumulative reduction. ⍺ must be a dyadic function.
+
+-----
+
+#+begin_src gnu-apl
+      +\⍳5
+1 3 6 10 15
+      -\⍳5
+1 ¯1 2 ¯2 3
+      ×\⍳5
+1 2 6 24 120
+      ÷\⍳5
+1 0.5 1.5 0.375 1.875
+      ∧\⍳5
+1 2 6 12 60
+      ∨\32×10?20
+160 32 32 32 32 32 32 32 32 32
+#+end_src
+** Replicate                                                          :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       e32677c5-bb18-4858-843b-d2f1e32b7f17
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 5
+:DRILL_FAILURE_COUNT: 4
+:DRILL_AVERAGE_QUALITY: 1.4
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:45]
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Reduce                                                             :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       36072156-5ad1-4f07-93ea-be0768de2e04
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:45]
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Windowed Reduce                                                    :drill:
+SCHEDULED: <2022-09-02 Fri>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:DRILL_CARD_TYPE: twosided
+:ID:       c2896a4e-008d-405a-88ec-c990ba94ad12
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 1.667
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:45]
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
