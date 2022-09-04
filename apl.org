@@ -71,7 +71,7 @@ Dyadic Function: Divide
 :ID:       8f02896b-523a-471b-99df-f798baecd998
 :END:
 *** Front
-\vert
+\vert (|)
 *** Back
 Pronounced: "Pipe"
 
@@ -2059,7 +2059,7 @@ occur, and need to be dealt with appropriately.
       Alt2 5 2
 0.1724137931 0.06896551724
 #+end_src
-** Matrix Divide
+** Matrix Divide                                                      :drill:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
@@ -2563,17 +2563,39 @@ SCHEDULED: <2022-09-02 Fri>
 :DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:45]
 :END:
 *** Front
-
+Replicate
 *** Back
-function.
+Dyadic function.
 
+A representation of ⍵ with each element repeated i⌷⍺ times.
 
-
-
+⍺ must be an array with the same length as ⍵, made up of positive
+integers. If ⍺ is made up entirely of booleans (1 and 0), then this is
+synonymous with "Compress" (with ⍺ acting as a boolean mask). ⍵ can be an
+array of numbers or characters (a string). Can be called on the first or last
+axis.
 
 -----
 
 #+begin_src gnu-apl
+0 3 0 1 0/A
+2 2 2 4
+      0 3 0 1 0/B
+eeel
+      0 3 0 1 0/C
+dddf
+      0 3 0 1 0/D
+2 2 2 4
+e e e l
+d d d f
+      0 3 0 1 0⌿D
+LENGTH ERROR
+      0 3 0 1 0⌿D
+      ^         ^
+      0 3 0⌿D
+Hello
+Hello
+Hello
 #+end_src
 ** Reduce                                                             :drill:
 SCHEDULED: <2022-09-02 Fri>
@@ -2592,47 +2614,57 @@ SCHEDULED: <2022-09-02 Fri>
 :DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:45]
 :END:
 *** Front
-
+Reduce
 *** Back
-function.
+Monadic or Dyadic Operator.
 
+A function that will apply fn to subarrays of ⍵ of a length equal to the
+magnitude of ⍺ from left to right (or right to left, if ⍺ is negative, or not
+at all if 0 (see example)), treating the total so far as ⍺ and the next
+member as ⍵ when calling the function, and which will return the total after
+all members have been processed.
 
+If ⍺ is /not/ specified (fn <this> ⍵) then ⍺ is considered to be the length
+of ⍵: That is, it will return the result of applying fn from left to right
+across the entire array ⍵, starting with the first element as ⍺ and the
+second as ⍵, and then the cumulative total as ⍺ and the next element as ⍵
+until the entire array has been processed.
 
-
+fn must be a dyadic function. ⍺ must be a number of magnitude less than the
+length of ⍵, and ⍵ must be an array of valid arguments for both sides of
+fn. Can be called on the first or last axis.
 
 -----
 
 #+begin_src gnu-apl
-#+end_src
-** Windowed Reduce                                                    :drill:
-SCHEDULED: <2022-09-02 Fri>
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic (and reversed card)
-:ANKI_FAILURE_REASON: cannot create note because it is empty
-:DRILL_CARD_TYPE: twosided
-:ID:       c2896a4e-008d-405a-88ec-c990ba94ad12
-:DRILL_LAST_INTERVAL: 3.86
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 3
-:DRILL_FAILURE_COUNT: 2
-:DRILL_AVERAGE_QUALITY: 1.667
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [2022-08-29 Mon 21:45]
-:END:
-*** Front
-
-*** Back
-function.
-
-
-
-
-
------
-
-#+begin_src gnu-apl
-#+end_src
+⍝ Numeric Array
+      +/1 2 3 4 5
+15
+      5+/1 2 3 4 5
+15
+      4+/1 2 3 4 5
+10 14
+      3+/1 2 3 4 5
+6 9 12
+      2+/1 2 3 4 5
+3 5 7 9
+      1+/1 2 3 4 5
+1 2 3 4 5
+      0+/1 2 3 4 5
+0 0 0 0 0 0
+⍝ Addition is communitive, so these will mirror the above.
+      ¯1+/1 2 3 4 5
+1 2 3 4 5
+      ¯2+/1 2 3 4 5
+3 5 7 9
+      ¯3+/1 2 3 4 5
+6 9 12
+      ¯4+/1 2 3 4 5
+10 14
+      ¯5+/1 2 3 4 5
+15
+⍝ Character Array
+⍝ Note the initial spaces, which is the 'identity'.
 ** 
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
