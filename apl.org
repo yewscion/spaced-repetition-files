@@ -488,6 +488,19 @@ Dyadic Function: Logical Nor
 *** Back
 Monadic Function: Depth
 Dyadic Function: Match
+** ≢                                                                  :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+≢
+*** Back
+Pronounced: "Tally"
+
+Monadic Function: Tally
+
+Dyadic Function: Not Match
 ** ∊                                                                  :drill:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
@@ -927,7 +940,7 @@ Pronounced: "Rank"
 Monadic Operator: Rank
 
 Dyadic Operator: Rank
-** ⌺o                                                                 :drill:
+** ⌺                                                                  :drill:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
@@ -996,10 +1009,11 @@ Operator:
 :ID:       731b698d-8636-4a12-91ac-407533ed29ac
 :END:
 *** Front
+∩
 *** Back
-Monadic:
-Dyadic:
-Operator:
+Pronounced: "Intersection"
+
+Dyadic Function: Intersection
 ** ∪                                                                  :drill:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
@@ -1008,10 +1022,13 @@ Operator:
 :ID:       2ebaf584-18c5-429a-a98c-95731d470585
 :END:
 *** Front
+∪
 *** Back
-Monadic:
-Dyadic:
-Operator:
+Pronounced: "Union"
+
+Monadic Function: Unique
+
+Dyadic Function: Union
 ** £                                                                  :drill:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
@@ -1032,10 +1049,13 @@ Operator:
 :ID:       f63ed46c-8e54-4f69-8f3e-7553411873e3
 :END:
 *** Front
+⍪
 *** Back
-Monadic:
-Dyadic:
-Operator:
+Pronounced: "Comma Bar"
+
+Monadic Function: Table
+
+Dyadic Function: Catenate (First Axis)
 ** ⍝                                                                  :drill:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
@@ -2665,7 +2685,7 @@ fn. Can be called on the first or last axis.
 15
 ⍝ Character Array
 ⍝ Note the initial spaces, which is the 'identity'.
-** 
+** Less Than
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
@@ -2683,7 +2703,7 @@ function.
 
 #+begin_src gnu-apl
 #+end_src
-** 
+** Greater Than
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
@@ -2701,7 +2721,7 @@ function.
 
 #+begin_src gnu-apl
 #+end_src
-** 
+** Less Than or Equal To
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
@@ -2719,7 +2739,7 @@ function.
 
 #+begin_src gnu-apl
 #+end_src
-** 
+** Greater Than or Equal To
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
@@ -2737,7 +2757,7 @@ function.
 
 #+begin_src gnu-apl
 #+end_src
-** 
+** Equal To
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
@@ -2755,7 +2775,7 @@ function.
 
 #+begin_src gnu-apl
 #+end_src
-** 
+** Not Equal To
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
@@ -2773,7 +2793,7 @@ function.
 
 #+begin_src gnu-apl
 #+end_src
-** 
+** Logical Not
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
@@ -2791,7 +2811,7 @@ function.
 
 #+begin_src gnu-apl
 #+end_src
-** 
+** Logical And
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
@@ -2809,7 +2829,7 @@ function.
 
 #+begin_src gnu-apl
 #+end_src
-** 
+** Logical Or
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
@@ -2827,7 +2847,7 @@ function.
 
 #+begin_src gnu-apl
 #+end_src
-** 
+** Logical Nand
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
@@ -2845,7 +2865,727 @@ function.
 
 #+begin_src gnu-apl
 #+end_src
-** 
+** Logical Nor
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Depth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Match
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Enlist
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Membership
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Find
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Index
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Index Generator
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Index Of
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Shape Of
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Reshape
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Reverse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Rotate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Transpose
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** First
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Take
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Drop 
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Enclose
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Partition
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Disclose
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Pick
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Ravel
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Catenate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Each
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Inner Product
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Compose
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Separate Statement
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Self
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Swap
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Indices
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Where
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Power Operator
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Input from Keyboard
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Assignment
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Goto
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Clear Error
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Identity
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Right
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Left
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Define Procedure
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is empty
+:END:
+*** Front
+
+*** Back
+function.
+
+
+
+
+
+-----
+
+#+begin_src gnu-apl
+#+end_src
+** Rank
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_FAILURE_REASON: cannot create note because it is empty
