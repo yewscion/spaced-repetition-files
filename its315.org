@@ -1,0 +1,321 @@
+* 01. Computer Network Fundamentals
+** Protocols
+*** Multiprotocol Label Switching (MPLS)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+**** Back
+*** Asynchronous Transfer Mode (ATM)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+**** Back
+*** Fiber Distributed Data Interface (FDDI)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Fiber Distributed Data Interface (FDDI)
+**** Back
+A protocol using fiber-optic cables to create a counter-roating ring
+arcitecture for a LAN.
+** Types of Networks
+*** Local Area Network (LAN)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Local Area Network (LAN)
+**** Back
+A network connecting components within a local area (for instance, in a
+building).
+
+*** Wide Area Network (WAN)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Wide Area Network (WAN)
+**** Back
+A network connecting components that are geographically separated, like in
+different countries.
+*** Wireless Local Area Network (WLAN)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Wireless Local Area Network (WLAN)
+**** Back
+A local area network made up of wireless networking devices.
+*** Storage Area Network (SAN)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Storage Area Network
+**** Back
+A high-speed, highly reliable network for the express purpose of transmitting
+stored data.
+*** Campus Area Network (CAN)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Campus Area Network (CAN)
+**** Back
+A network comprised of multiple related networks that act as a single
+combined network in a limited geographic area, like in a university or
+corporation.
+*** Controller Area Network (CAN)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Controller Area Network (CAN)
+**** Back
+A robust vehicle bus standard designed to enable microcontrollers and devices
+to communicate with each other's applications without needing a host
+computer.
+*** Metropolitan Area Network (MAN)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Metropolitan Area Network (MAN)
+**** Back
+A network that connects locations scattered in a single region, such as a
+city-wide network.
+*** Personal Area Network (PAN)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Personal Area Network (PAN)
+**** Back
+The smallest kind of network, typically only a few square meters in area,
+such as the bluetooth connection in a car.
+*** Client/Server Network
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Client/Server Network
+**** Back
+A network where resources are provided by a dedicated server that multiple
+clients can connect to to access those resources. Can be more efficient than
+Peer to Peer due to 100% of the server's resources being devoted to serving
+files, but is also more expensive due to the dedicated hardware.
+*** Peer to Peer network
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Peer to Peer Network
+**** Back
+A network where resources are shared between multiple interconnected
+computers, without dedicated servers.
+** Network Technologies
+*** Ethernet (IEEE 802.3)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Ethernet (IEEE 802.3)
+**** Back
+A family of wired computer networking technologies commonly used in
+networks. It was commercially introduced in 1980 and first standardized in
+1983 as IEEE 802.3.
+*** Wireless Networks (IEEE 802.11)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Wireless Networks (IEEE 802.11)
+**** Back
+The part of the IEEE 802 set of local area network (LAN) technical standards
+which specifies the set of media access control (MAC) and physical layer
+(PHY) protocols for implementing wireless local area network (WLAN) computer
+communication.
+** Network Topologies
+*** Logical Topology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Logical Topology
+**** Back
+A topology defined by the actual traffic flow through the network.
+*** Physical Topology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Physical Topology
+**** Back
+A topology defined by the way components are physically connected.
+*** Star Topology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Star Topology
+**** Back
+A toplogy where all of the nodes connect back to a centralized device, such
+as a switch or a hub. One of the most popular network topologies.
+*** Ring Topology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Ring Topology
+**** Back
+A topology where all of the nodes are connected to one another in a big
+circle, and traffic moves in one direction around this circle to reach its
+destination.
+*** Bus Topology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Bus Topology
+**** Back
+A topology where a single line runs through the area needing connectivite,
+with nodes "tapping in" to this line to access the network. Very Succeptible
+to collisions, since all nodes use the same line to connect.
+*** Hub and Spoke Topology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Hub and Spoke Topology
+**** Back
+A topology where multiple remote networks are all linked to a main site
+through WAN links. Similar to the Star Topology for LAN networks. Saves cost
+by not directly connecting two remote sites, but increases latency between
+two remote sites.
+*** Full Mesh Topology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Full Mesh Topology
+**** Back
+A topology where every node is connected to every other node. Often used for
+smaller important networks of nodes due to the resiliency and the cost.
+*** Partial Mesh Topology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Partial Mesh Topology
+**** Back
+A topology where high-traffic nodes are given multiple direct connections to
+other nodes, but lower traffic nodes are not given many connections. This
+saves costs, especially on expansion, but also makes the design of the
+network much more complex by requiring the engineer to decide when multiple
+links are warranted.
+*** Ad Hoc Wireless Topology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Ad Hoc Wireless Topology
+**** Back
+The simplest wireless topology, where each individual device is responsible
+for sending and receiving traffic without the aid of infrastructure devices.
+*** Infrastucture Wireless Topology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Infrastructure Wireless Topology
+**** Back
+A wireless topology where specialized devices are used to facilitate the
+wireless communications.
+*** Mesh Wireless Topology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Mesh Wireless Topology
+**** Back
+A specific type of Ad-Hoc Wireless Network where specialized nodes help move
+traffic through the network.
+** Network Components
+*** Media Access Unit (MAU)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Media Access Unit (MAU)
+**** Back
+A device to attach multiple network stations in a star topology as a Token
+Ring network, internally wired to connect the stations into a logical ring
+*** Network Segment
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Network Segment
+**** Back
+A single collision domain.
+*** Switch
+*** Hub
+*** Router
+*** Wireless Access Point
+** Ethernet Standards
+*** 10BASE2
+*** 10BASE5
+** Error Conditions
+*** Collision
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Collision
+**** Back
+When more that one device node the same address at the same time.
+* 02. The OSI Reference Model
+* 03. Network Components
+* 04. Ethernet Technology
+* 05. IPv4 and IPv6 Addresses
+* 06. Routing IP Packets
+* 07. Wide Area Networks
+* 08. Wireless Technologies
+* 09. Network Optimization
+* 10. Command-Line Tools
+* 11. Network Management
+* 12. Network Security
+* 13. Network Policies and Best Practices
+* 14. Network Troubleshooting
