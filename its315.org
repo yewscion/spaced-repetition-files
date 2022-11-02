@@ -270,6 +270,74 @@ Mesh Wireless Topology
 A specific type of Ad-Hoc Wireless Network where specialized nodes help move
 traffic through the network.
 ** Network Components
+*** Client
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Client
+**** Back
+The device the end-user uses to access the network.
+*** Server
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Server
+**** Back
+A computer that provides resources to a network.
+*** Hub
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Hub
+**** Back
+A Layer 1 device that receives traffic on one port and broadcasts it across
+all of its other ports.
+*** Switch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Switch
+**** Back
+A Layer 2 device that forwards traffic based on Media Access Control (MAC)
+addresses.
+*** Router
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Router
+**** Back
+A Layer 3 device that forwards traffic based on logical network addresses
+like Internet Protocol (IP) addresses.
+*** Media
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Media
+**** Back
+The physical way network devices are connected in a network, such as cabling,
+radio waves, or Infrared light.
+*** WAN Link
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+WAN Link
+**** Back
+A connection between two networks, oftentimes networks that are not
+immediately next to one another.
 *** Media Access Unit (MAU)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
@@ -289,10 +357,6 @@ Ring network, internally wired to connect the stations into a logical ring
 Network Segment
 **** Back
 A single collision domain.
-*** Switch
-*** Hub
-*** Router
-*** Wireless Access Point
 ** Ethernet Standards
 *** 10BASE2
 *** 10BASE5
@@ -307,6 +371,227 @@ Collision
 **** Back
 When more that one device node the same address at the same time.
 * 02. The OSI Reference Model
+** OSI Model Layers
+*** OSI Layer 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+OSI Layer 1
+**** Back
+The Physical Layer
+*** OSI Layer 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+OSI Layer 2
+**** Back
+The Data Link Layer
+*** OSI Layer 3
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+OSI Layer 3 
+**** Back
+The Network Layer
+*** OSI Layer 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+OSI Layer 4
+**** Back
+The Transport Layer
+*** OSI Layer 5
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+OSI Layer 5
+**** Back
+The Session Layer
+*** OSI Layer 6
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+OSI Layer 6
+**** Back
+The Presentation Layer
+*** OSI Layer 7
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+OSI Layer 7
+**** Back
+The Application Layer
+** Protocol Data Units
+*** Physical PDU
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Physical PDU
+**** Back
+Bit (Binary Digit)
+*** Data Link PDU
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Data Link PDU
+**** Back
+Frame
+*** Network PDU
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Network PDU
+**** Back
+Packet
+*** Transport PDU
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Transport PDU
+**** Back
+Segment
+** Concerns of the Layers
+*** Concerns of Layer 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Concerns of Layer 1
+**** Back
+ - Electrical Signal Interpretation
+ - Wiring Standards
+ - Physical Topology
+ - Bandwidth Usage
+ - Multiplexing Strategy
+*** Concerns of Layer 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Concerns of Layer 2
+**** Back
+
+*** Concerns of Layer 3
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Concerns of Layer 3
+**** Back
+
+*** Concerns of Layer 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Concerns of Layer 4
+**** Back
+
+*** Concerns of Layer 5
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Concerns of Layer 5
+**** Back
+
+*** Concerns of Layer 6
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Concerns of Layer 6
+**** Back
+
+*** Concerns of Layer 7
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Concerns of Layer 7
+**** Back
+** Standards
+*** TIA/EIA-568-B 8P8C
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+TIA/EIA-568-B 8P8C
+**** Back
+OwOGwBBwGNwN.
+
+On Whose Order, Given We Bring Back Willow Groves' North West Neighbor?
+
+Orange-White,
+Orange,
+Green-White,
+Blue
+Blue-White,
+Green,
+Brown-White,
+Brown.
+** Multiplexing Strategies
+*** Time-division Multiplexing (TDM)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Time-division Multiplexing (TDM)
+**** Back
+Supporting different sessions on the same medium by causing sessions to take
+even turns using time slots.
+*** Statistical Time-division Multiplexing (StatTDM)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Statistical Time-division Multiplexing (StatTDM)
+**** Back
+Supporting different sessions on the same medium by causing sessions to take
+weighted turns using time slots.
+*** Frequecy-division Multiplexing (FDM)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+**** Front
+Frequency-division Multiplexing (FDM)
+**** Back
+Supporting different sessions on the same medium by dividing the medium's
+frequency range into channels, which are dedicated to individual
+sessions. Also called "Broadband".
 * 03. Network Components
 * 04. Ethernet Technology
 * 05. IPv4 and IPv6 Addresses

@@ -1,0 +1,219 @@
+* SKI Combinators
+** I
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+I
+*** Back
+Ix = x.
+
+Returns the argument as itself.
+** K
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+K 
+*** Back
+Kxy = x.
+
+Returns the first argument, discards the second.
+** S
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+S
+*** Back
+Sxyz = xz(yz).
+
+Apply the first argument to third argument. Then apply the second argument to
+the third argument. Then apply the first result to the second result.
+
+Starling.
+** M
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+M
+*** Back
+Mx = xx.
+
+M = SII = ((S((SK)K))((SK)K)) = la.aa
+
+Apply the first argument to itself.
+
+Mockingbird.
+** R
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+R
+*** Back
+Rxy = yx.
+
+R = ((S(K((S(KS))K)))((S(K(S((SK)K))))K)) = BBT = labc.bca
+
+Swaps around the order of application for the two arguments.
+
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back
+** Item
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+
+*** Front
+*** Back

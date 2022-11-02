@@ -1,0 +1,1741 @@
+* GNU APL
+# ** Symbols
+# *** +
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# +
+# **** Back
+# Pronounced: "Plus"
+
+# Monadic Function: Conjugate
+
+# Dyadic Function: Addition
+# *** -
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# -
+# **** Back
+# Pronounced: "Minus"
+
+# Monadic Function: Negation
+
+# Dyadic Function: Subtraction
+# *** ×
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ×
+# **** Back
+# Pronounced: "Times"
+
+# Monadic Function: Signum
+
+# Dyadic Function: Multiply
+# *** ÷
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ÷
+# **** Back
+# Pronounced: "Div"
+
+# Monadic Function: Reciprocal
+
+# Dyadic Function: Divide
+# *** |
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# |
+# **** Back
+# Pronounced: "Pipe"
+
+# Monadic Function: Magnitude
+
+# Dyadic Function: Modulo
+# *** *
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⋆
+# **** Back
+# Pronounced: "Star"
+
+# Monadic Function: Exponential
+
+# Dyadic Function: Power
+# *** ⍟
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍟
+# **** Back
+# Pronounced: "Circle Star"
+
+# Monadic Function: Natural Logarithm
+
+# Dyadic Function: Logarithm
+# *** ⌈
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⌈
+# **** Back
+# Monadic Function: Ceiling
+
+# Dyadic Function: Maximum
+# *** ⌊
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⌊
+# **** Back
+# Monadic Function: Floor
+
+# Dyadic Function: Minimum
+# *** !
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# !
+# **** Back
+# Monadic Function: Factorial
+
+# Dyadic Function: Binomial Coefficient
+# *** ○
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ○
+# **** Back
+# Monadic Function: Pi Times
+
+# Dyadic Function: Circular Functions (varies)
+# *** ?
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ?
+# **** Back
+# Monadic Function: Roll
+
+# Dyadic Function: Deal
+# *** ⍋
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍋
+# **** Back
+# Monadic Function: Grade Up
+
+# Dyadic Function: Grade Up w/ Collating Sequence
+# *** ⍒
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍒
+# **** Back
+# Monadic Function: Grade Down
+
+# Dyadic Function: Grade Down w/ Collating Sequence
+# *** ⌹
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⌹
+# **** Back
+# Monadic Function: Matrix Inverse
+
+# Dyadic Function: Matrix Divide
+# *** ⍎
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍎
+# **** Back
+# Monadic Function: Execute
+# *** ⍕
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍕
+# **** Back
+# Monadic Function: Format
+
+# Dyadic Function: Format with Control Array
+# *** ⊥
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⊥
+# **** Back
+# Dyadic Function: Base Value
+# *** ⊤
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⊤
+# **** Back
+# Dyadic Function: Representation
+# *** \
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# \
+# **** Back
+# Pronounced: Backslash
+
+# Dyadic Function: Expand Along Last Axis
+
+# Operator: Scan Along Last Axis
+# *** ⍀
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍀
+# **** Back
+# Pronounced: Backslash Bar
+
+# Dyadic Function: Expand Along First Axis
+
+# Operator: Scan Along First Axis
+# *** /
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# /
+# **** Back
+# Pronounced: Slash
+
+# Dyadic Function: Replicate Along Last Axis
+
+# Operator: Reduction / Reduce Along Last Axis
+
+# Dyadic Operator: N-Wise Reduction / N-Wise Reduce Along Last Axis
+# *** ⌿
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⌿
+# **** Back
+# Pronounced: Slash Bar
+
+# Dyadic Function: Replicate Along First Axis
+
+# Operator: Reduction / Reduce Along First Axis
+
+# Dyadic Operator: N-Wise Reduction / N-Wise Reduce Along First Axis
+# *** <
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# <
+# **** Back
+# Dyadic Function: Less Than
+# *** >
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# >
+# **** Back
+# Dyadic Function: Greater Than
+# *** ≤
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ≤
+# **** Back
+# Dyadic Function: Less Than or Equal To
+# *** ≥
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ≥
+# **** Back
+# Dyadic Function: Greater Than or Equal To
+# *** =
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# =
+# **** Back
+# Dyadic Function: Equal To
+# *** ≠
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ≠
+# **** Back
+# Dyadic Function: Not Equal To
+# *** ∼
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ~
+# **** Back
+# Monadic Function: Logical Not
+# *** ∧
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ∧
+# **** Back
+# Dyadic Function: Logical And
+# *** ∨
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ∨
+# **** Back
+# Dyadic Function: Logical Or
+# *** ⍲
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍲
+# **** Back
+# Dyadic Function: Logical Nand
+# *** ⍱
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍱
+# **** Back
+# Dyadic Function: Logical Nor
+# *** ≡
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ≡
+# **** Back
+# Monadic Function: Depth
+
+# Dyadic Function: Match
+# *** ∊
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ∊
+# **** Back
+# Monadic Function: Enlist
+
+# Dyadic Function: Membership
+# *** ⍷
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍷
+# **** Back
+# Dyadic Function: Find
+# *** ⌷
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⌷
+# **** Back
+# Dyadic Function: Index
+# *** ⍳
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍳
+# **** Back
+# Monadic Function: Index Generator / iota
+
+# Dyadic Function: Index Of
+# *** ⍴
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍴
+# **** Back
+# Monadic Function: Shape Of
+
+# Dyadic Function: Reshape
+# *** ⌽
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⌽
+# **** Back
+# Monadic Function: Reverse
+
+# Dyadic Function: Rotate
+# *** ⊖
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⊖
+# **** Back
+# Monadic Function: Reverse Vertically
+
+# Dyadic Function: Rotate Vertically
+# *** ⍉
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍉
+# **** Back
+# Monadic Function: Transpose
+
+# Dyadic Function: Transpose with Control Array
+# *** ↑
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ↑
+# **** Back
+# Monadic Function: First
+
+# Dyadic Function: Take
+# *** ↓
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ↓
+# **** Back
+# Dyadic Function: Drop
+# *** ⊂
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⊂
+# **** Back
+# Monadic Function: Enclose
+
+# Dyadic Function: Partition
+# *** ⊃
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⊃
+# **** Back
+# Monadic Function: Disclose
+
+# Dyadic Function: Pick
+# *** ,
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ,
+# **** Back
+# Monadic Function: Ravel
+
+# Dyadic Function: Catenate
+# *** ¨
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ¨
+# **** Back
+# Operator: Each
+# *** .
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# .
+# **** Back
+# Operator: Inner Product
+# *** ∘
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ∘
+# **** Back
+# Operator: Compose
+# *** ∘.
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ∘.
+# **** Back
+# Operator: Compose
+# *** ◊
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ◊
+# **** Back
+# Pronounced: Diamond
+
+# Dyadic Symbol: Statement Seperator
+# *** ¯
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ¯
+# **** Back
+# Pronounced: Negative
+
+# Monadic Symbol: Negative Number
+# *** ⍵
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍵
+# **** Back
+# Pronounced: Omega
+
+# Subject Symbol: Right Argument
+# *** ⍨
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍨
+# **** Back
+# Dyadic Operator: Commute
+# *** ⍸
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍸
+# **** Back
+# Monadic Function: Indices
+
+# Dyadic Function: Where
+# *** ⍣
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍣
+# **** Back
+# Operator: Power
+# *** ⍞
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍞
+# **** Back
+# Pronounced: Quad Quote
+
+# Niladic: Input from Keyboard
+
+# Subject: Print to stderr
+# *** ⍬
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍬
+# **** Back
+# Pronounced: Zilde
+
+# Subject: Empty Numeric Vector
+# *** ←
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ←
+# **** Back
+# Pronounced: Is Assigned
+
+# Dyadic Function: Assignment
+# *** →
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# →
+# **** Back
+# Monadic Function: Goto
+
+# Niladic: Clear Error
+# *** ⊢
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⊢
+# **** Back
+# Pronounced: Right Tack
+
+# Monadic Function: Identity
+
+# Dyadic Function: Right
+# *** ⊣
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⊣
+# **** Back
+# Pronounced: Left Tack
+
+# Monadic Function: Identity
+
+# Dyadic Function: Left
+# *** _
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# _
+# **** Back
+# Pronounced: Underscore
+
+# Subject: Character for Identifier
+# *** ∇
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ∇
+# **** Back
+# Pronounced: Del
+
+# System Operator: Procedure Definition Delimiter
+# *** ∆
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ∆
+# **** Back
+# Pronounced: Delta
+
+# Subject: Character for Identifier
+# *** ⍙
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍙
+# **** Back
+# Pronounced: Delta Underbar
+
+# Subject: Character for Identifier
+# *** ⍤
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# ⍤
+# **** Back
+# Monadic:
+
+# Dyadic:
+
+# Operator:
+# *** ⌺
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# **** Back
+# Monadic:
+
+# Dyadic:
+
+# Operator:
+# *** '
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# **** Back
+# Monadic:
+
+# Dyadic:
+
+# Operator:
+# *** ⎕
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# **** Back
+# Monadic:
+
+# Dyadic:
+
+# Operator:
+# *** χ
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# **** Back
+# Monadic:
+
+# Dyadic:
+
+# Operator:
+# *** ⍧
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# **** Back
+# Monadic:
+
+# Dyadic:
+
+# Operator:
+# *** ∩
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# **** Back
+# Monadic:
+
+# Dyadic:
+
+# Operator:
+# *** ∪
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# **** Back
+# Monadic:
+
+# Dyadic:
+
+# Operator:
+# *** £
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# **** Back
+# Monadic:
+
+# Dyadic:
+
+# Operator:
+# *** ⍪
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# **** Back
+# Monadic:
+
+# Dyadic:
+
+# Operator:
+# *** ⍝
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# **** Back
+# Monadic:
+
+# Dyadic:
+
+# Operator:
+# *** ⍠
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :END:
+# **** Front
+# **** Back
+:PROPERTIES:
+:ANKI_DECK: APL
+:END:
+** Algorithms
+:PROPERTIES:
+:ANKI_DECK: APL
+:END:
+*** Conjugate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:END:
+**** Front
+Conjugate
+**** Back
+Monadic function.
+
+If ⍵ is a real number, return ⍵. If ⍵ is complex, return
+⍵ with the imaginary part negated.
+
+Example:
+
+      +100
+100
+      +1J2
+1J¯2
+      +1J2 2J¯3 ¯3J4
+1J¯2 2J3 ¯3J¯4
+
+*** Addition
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+
+:END:
+**** Front
+Addition
+**** Back
+Dyadic function.
+
+The sum of ⍺ and ⍵.
+
+⍺ and ⍵ must be numeric values or arrays. Example:
+
+      1+1
+2
+      1 2 3 + ¯1 ¯2 ¯3
+0 0 0
+      1 2 3 + 10
+11 12 13
+
+*** Negate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+
+:END:
+**** Front
+Negate
+**** Back
+Monadic function.
+
+The additive inverse of ⍵.
+
+⍵ must be a number [array]. Example:
+      - 1 2 ¯3
+¯1 ¯2 3
+
+*** Subtraction
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:END:
+**** Front
+Subtraction
+**** Back
+Dyadic function.
+
+The difference between ⍺ and ⍵.
+
+⍵ and ⍺ must be numbers. Example:
+      1 2 3 - 10
+¯9 ¯8 ¯7
+      (2 2⍴⍳4) - 10
+¯9 ¯8
+¯7 ¯6
+*** Signum
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+
+:END:
+**** Front
+Signum
+**** Back
+Monadic function.
+
+For ⍵ = 0: 0
+Otherwise: ⍵ divided by Magnitude of ⍵.
+
+Example:
+      × 10 ¯10 0 3J¯2
+1 ¯1 0 0.8320502943J¯0.5547001962
+*** Times
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+
+:END:
+**** Front
+Times
+**** Back
+Dyadic function.
+
+The product of ⍺ and ⍵.
+
+⍺ and ⍵ must be numbers.  Example:
+      1 2 3 × ¯1
+¯1 ¯2 ¯3
+      0J¯1 × 0J¯1
+¯1
+*** Reciprocal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+
+:END:
+**** Front
+Reciprocal
+**** Back
+Monadic function.
+
+The multiplicative inverse of ⍵.
+
+⍵ must be nonzero number. Example:
+      ÷ 10 ¯10 2 3J¯2
+0.1 ¯0.1 0.5 0.2307692308J0.1538461538
+*** Division
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+
+:END:
+**** Front
+Division
+**** Back
+Dyadic function.
+
+The quotient of ⍺ and ⍵.
+
+⍺ and ⍵ must be numbers.
+Signals the error if If ⍵ is 0 and ⍺ is not 0.
+If ⍵ is 0 and ⍺ is 0 returns 1. Example:
+
+      1 2 0 1J2 ÷ 2 2 0 1J1
+0.5 1 1 1.5J0.5
+
+*** Magnitude
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+
+:END:
+**** Front
+Magnitude
+**** Back
+Monadic Function.
+
+The absolute value of ⍵.
+
+Returns the larger of ⍵ and ¯⍵. Example:
+
+      |5 ¯5 5.4567 6J¯1 ¯3E10
+5 5 5.4567 6.08276253 3E10
+*** Modulo
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+
+:END:
+**** Front
+Modulo
+**** Back
+Dyadic Function.
+
+The remainder in the euclidian division of ⍵ by ⍺.
+
+Example:
+      5|3
+3
+      3|5
+2
+      7|20
+6
+      6.5|32.75
+0.25
+*** Exponential
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+
+:END:
+**** Front
+Exponential
+**** Back
+Monadic function.
+
+e to the ⍵th power.
+
+⍵ must be a number. Raise the base of the natural algorithm e (2.718281...)
+to the power of ⍵. Example:
+
+      *1
+2.718281828
+      *0 0J1
+1 0.5403023059J0.8414709848
+
+*** Power
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+
+:END:
+**** Front
+Power
+**** Back
+Dyadic function.
+
+⍺ raised to the ⍵th power.
+
+A and B must be numbers. Example:
+
+      2*3 ¯2 1j2
+8 0.25 0.3669139495J1.966055481
+
+*** Natural Logarithm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+
+:END:
+**** Front
+Natural Logarithm
+**** Back
+Monadic function.
+
+logₑ⍵.
+
+⍵ must be a number. Example:
+
+      ⍟1
+0
+      ⍟2
+0.6931471806
+      ⍟2.71828
+0.9999993273      
+*** Logarithm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+
+:END:
+**** Front
+Logarithm
+**** Back
+Dyadic function.
+
+[latex]$\log_⍺ ⍵#[/latex]
+
+Example:
+
+      2⍟8
+3
+      4⍟1464
+5.257849919
+      1.618⍟2.718
+2.077962166
+      
+# * Poker Hands
+# :PROPERTIES:
+# :ANKI_DECK: Poker Hands
+# :END:
+# **                                                              :scoring:
+# :PROPERTIES:
+# :ANKI_NOTE_TYPE: Basic (and reversed card)
+# :ANKI_NOTE_ID: 1661131579363
+# :END:
+# *** Front
+# Five of a Kind
+# *** Back
+# 1st Best Hand: 🂡🃑🃁🂱🃏
+# # * BQN
+# # :PROPERTIES:
+# # :ANKI_DECK: BQN
+# # :END:
+# # ** Glyphs
+# # *** ⌽
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661133004563
+# # :END:
+# # **** Front
+# # ⌽
+# # **** Back
+# # Monadic Function: Reverse
+
+# # Dyadic Function: Rotate
+# # *** 𝕨
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661133004613
+# # :END:
+# # **** Front
+# # 𝕨
+# # **** Back
+# # Left Argument (sometimes ·) as a subject.
+# # *** 𝕎
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661133004664
+# # :END:
+# # **** Front
+# # 𝕎
+# # **** Back
+# # Left Argument (sometimes ·) as a function.
+# # *** ∊
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661133004713
+# # :END:
+# # **** Front
+# # ∊
+# # **** Back
+# # Monadic Function: Mark Firsts
+
+# # Dyadic Function: Member Of
+# # *** ⍷
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661133004763
+# # :END:
+# # **** Front
+# # ⍷
+# # **** Back
+# # Monadic Function: Deduplicate
+
+# # Dyadic Function: Find
+# # *** ↑
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134207988
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134207988
+# # :END:
+# # **** Front
+# # ↑
+# # **** Back
+# # Monadic Function: Prefixes
+
+# # Dyadic Function: Take
+# # *** 𝕣
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208063
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208063
+# # :END:
+# # **** Front
+# # 𝕣
+# # **** Back
+# # Modifier Self Reference
+# # *** ∧
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208115
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208115
+# # :END:
+# # **** Front
+# # ∧
+# # **** Back
+# # Monadic Function: Sort Up
+
+# # Dyadic Function: And
+# # *** ⍋
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208188
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208188
+# # :END:
+# # **** Front
+# # ⍋
+# # **** Back
+# # Monadic Function: Grade Up
+
+# # Dyadic Function: Bins Up
+# # *** ⊔
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208238
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208238
+# # :END:
+# # **** Front
+# # ⊔
+# # **** Back
+# # Monadic Function: Group Indicies
+
+# # Dyadic Function: Group
+# # *** ⊏
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208288
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208288
+# # :END:
+# # **** Front
+# # ⊏
+# # **** Back
+# # Monadic Function: First Cell
+
+# # Dyadic Function: Select
+# # *** ⊑
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208338
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208338
+# # :END:
+# # **** Front
+# # ⊑
+# # **** Back
+# # Monadic Function: First
+
+# # Dyadic Function: Pick
+# # *** ⊐
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208488
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208488
+# # :END:
+# # **** Front
+# # ⊐
+# # **** Back
+# # Monadic Function: Classify
+
+# # Dyadic Function: Index Of
+# # *** ⊒
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208538
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208538
+# # :END:
+# # **** Front
+# # ⊒
+# # **** Back
+# # Monadic Function: Occurence Count
+
+# # Dyadic Function: Progressive Index Of
+# # *** π
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208587
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208587
+# # :END:
+# # **** Front
+# # π
+# # **** Back
+# # Pi, the ratio of the circumference of a circle to its diameter.
+# # *** ←
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208638
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208638
+# # :END:
+# # **** Front
+# # ←
+# # **** Back
+# # Define (Assignment)
+# # *** ⊣
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208687
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208687
+# # :END:
+# # **** Front
+# # ⊣
+# # **** Back
+# # Monadic Function: Identity
+
+# # Dyadic Function: Left
+# # *** ⊢
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208738
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208738
+# # :END:
+# # **** Front
+# # ⊢
+# # **** Back
+# # Monadic Function: Identity
+
+# # Dyadic Function: Right
+# # *** ⍉
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_NOTE_ID: 1661134208788
+# # :ANKI_FAILURE_REASON: Note was not found: 1661134208788
+# # :END:
+# # **** Front
+# # ⍉
+# # **** Back
+# # Monadic Function: Transpose
+
+# # Dyadic Function: Reorder Axes
+# # *** ↖
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** 𝕤
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** 𝕊
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ↕
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** 𝕗
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** 𝔽
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** 𝕘
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** 𝔾
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⊸
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** «
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ∘
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ○
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⌾
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⟜
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** »
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⋄
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ·
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ↩
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ˙
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⥊
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⋈
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** 𝕩
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** 𝕏
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ↓
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ∨
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⍒
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⌊
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⌈
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ≡
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ≢
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ∾
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ≤
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ≍
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ≥
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ≠
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⇐
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ˜
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ¬
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ˘
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⎉
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ¨
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⚇
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⁼
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⍟
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⌜
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ◶
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ´
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⊘
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ˝
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⎊
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⍎
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ∞
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⍕
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ¯
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⟨
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** •
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⟩
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ÷
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** √
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ×
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** ⋆
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** |
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** /
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
+# # *** !
+# # :PROPERTIES:
+# # :ANKI_NOTE_TYPE: Basic (and reversed card)
+# # :ANKI_FAILURE_REASON: cannot create note because it is empty
+# # :END:
+# # **** Front
+# # **** Back
