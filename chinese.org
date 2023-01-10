@@ -1,0 +1,637 @@
+* Characters
+:PROPERTIES:
+:ANKI_DECK: Chinese Characters
+:END:
+** 你                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:ID:       bbbe82eb-87e0-49b4-a704-20a84a77e14f
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:16]
+:END:
+*** Front
+你
+*** Back
+Meanings: You (Second Person). Traditional Only: Male form of You (Second
+Person).
+
+Cangjie: 人弓火
+** 好                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:ID:       d8e140b1-044f-438e-b12f-5ebcb7629e43
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:16]
+:END:
+*** Front
+好
+*** Back
+Meanings: Good/Well, Okay/Alright, Friendly/Close/Acquainted, To Become
+Romantic Partners, Done/Ready
+
+Cangjie: 女弓木
+** 見                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:ID:       b4573ef2-e6c2-4f89-b5b6-f5160b889436
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:16]
+:END:
+*** Front
+見
+*** Back
+Meanings: To See, To Meet, To Appear, Opinion/View
+
+Cangjie: 月山竹山
+** 再                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       321c660f-50f5-4fa0-bb6a-9a3e09eae53e
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:28]
+:END:
+*** Front
+再
+*** Back
+Meaning: Again, Continuing Hypothetical Situation, More, Then/Only Then.
+
+Cangjie: 一土月
+** 零                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       de53ab20-97d2-43d3-88c9-5b7d5ecb9402
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:28]
+:END:
+*** Front
+零
+*** Back
+Meaning: Zero, Fragmentary/Scattered, Fraction/Remainder, To Fall
+(Figuratively), Bottom (LGBT Slang).
+
+Cangjie: 一月人戈戈
+** 一                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       bd68d26e-a799-47a3-b42e-3ed8d3519ba1
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:24]
+:END:
+*** Front
+一
+*** Back
+Meaning: One, Each/Every, Single/Alone, Whole/Entire, Same/Identical, Top (LGBT slang)
+
+Cangjie: 一
+** 二                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       04f8fd58-7dec-4b00-887d-52231d1e524c
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:24]
+:END:
+*** Front
+二
+*** Back
+Meaning: Two, Second, Secondary, Again, Times, Different/Other/Else, Stupid
+(Dialectical Mandarin).
+
+Cangjie: 一一
+** 三                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       efc8b48e-6fa9-4c2f-8189-b4587ef41fdd
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:25]
+:END:
+*** Front
+三
+*** Back
+Meaning: Three, The other person/the person someone is cheating with
+(Mainland China Slang).
+
+Cangjie: 一一一
+** 四                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       2471de0f-114a-4fb6-8a28-c71650f9e159
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:25]
+:END:
+*** Front
+四
+*** Back
+Meaning: Four, All Directions (Literary), La (Musical Note).
+
+Cangjie: 田金
+** 五                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       774dbf23-c2bd-45ec-8e42-325d2497cfe0
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:27]
+:END:
+*** Front
+五
+*** Back
+Meaning: Five
+
+Cangjie: 一木一
+** 六                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       512645dd-576e-4666-b7ad-f96b88b6eace
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:27]
+:END:
+*** Front
+六
+*** Back
+Meaning: Six, Proficient (Dialectal, Awesome (Internet Slang).
+
+Cangjie: 卜金
+** 七                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       434d68bf-df35-47ec-9a3d-0a2b26ae65a3
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:25]
+:END:
+*** Front
+七
+*** Back
+Meaning: Seven.
+
+Cangjie: 十山
+** 八                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       28fa38b6-e6f4-45fd-8373-894d7f32983d
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:28]
+:END:
+*** Front
+八
+*** Back
+Meaning: Eight, Many (Figuratively), Short for 八卦 (meaning gossip).
+
+Cangjie: 竹人
+** 九                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       9ca6c990-f27a-48bc-9d48-836d7f7a6e50
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:28]
+:END:
+*** Front
+九
+*** Back
+Meaning: Nine, Many (Figuratively), Euphemism for Penis (Cantonese)
+
+Cangjie: 大弓
+** 十                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       47fe5d29-04ed-4323-91ee-8a32d02bf92b
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:26]
+:END:
+*** Front
+十
+*** Back
+Meaning: Ten, Utmost (Figuratively).
+
+Cangjie: 十
+** 百                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       f3ff4055-26fc-4162-85bb-9724b97ad140
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:28]
+:END:
+*** Front
+百
+*** Back
+Meaning: Hundred, Countless, All.
+
+Cangjie: 一日
+** 千                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       c6df3eee-0a09-425f-b433-edcd8d49f225
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:24]
+:END:
+*** Front
+千
+*** Back
+Meaning: Thousand, Many, To Swindle (Cantonese).
+
+Cangjie: 千
+** 問                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       5205e1c2-08fa-46e8-881e-5c52d42e2c7d
+:DRILL_CARD_TYPE: twosided
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:24]
+:END:
+*** Front
+問
+*** Back
+Meaning: To Ask, To Inquire About, To Send Regards, To Interrogate, To Hold
+To Account, To Meddle
+
+Cangjie: 日弓口
+Pinyin: wèn
+** 月                                                                 :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ID:       9b5407d7-11e4-460e-8ba7-01a016f53ddf
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:DRILL_LAST_INTERVAL: 4.0
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 4.0
+:DRILL_EASE: 2.5
+:DRILL_LAST_QUALITY: 4
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:26]
+:END:
+*** Front
+月
+*** Back
+Meaning: Moon/Lunar, Moon-Shaped Objects, Moonlight (literary), Month,
+Monthly.
+
+Cangjie: 月
+Pinyin: yuè.
+
+* Pronouncing Characters
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 好                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+好
+*** Back
+Pinyin: hăo
+** 見                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+見
+*** Back
+Pinyin: jiàn
+** 零                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+零
+*** Back
+Pinyin:  líng
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+** 你                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+你
+*** Back
+Pinyin: nǐ
+
+* Phrases
+:PROPERTIES:
+:ANKI_DECK: Chinese Phrases
+:END:
+** 你好                                                               :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:ID:       42b2ea94-4f83-4afa-aa8a-00f85db7ff14
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:17]
+:END:
+*** Front
+你好
+*** Back
+Meanings: Hello.
+** 再見                                                               :drill:
+SCHEDULED: <2022-11-13 Sun>
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:ID:       aade8d2f-6e6c-4786-b6e1-c45ab400de35
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [2022-11-09 Wed 05:15]
+:END:
+*** Front
+再見
+*** Back
+Meanings: Goodbye.
