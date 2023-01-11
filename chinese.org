@@ -411,6 +411,35 @@ Monthly.
 Cangjie: 月
 Pinyin: yuè.
 
+** 青                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+青
+*** Back
+Meaning: blue-green, blue (sky), green (grass), blue-green items, black
+(fibers), young/adolescent, east (obsolete, literary), spring (obsolete,
+literary).
+
+Cangjie: 手一月
+Pinyin: qīn.
+
+** 椒                                                                 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:DRILL_CARD_TYPE: twosided
+:END:
+*** Front
+椒
+*** Back
+Meaning: Sichuan Pepper (originally), any similar plant or spice (capsicum,
+chili), summit, surname.
+
+Cangjie: 木卜火水
+Pinyin: jiāo.
+
 * Pronouncing Characters
 ** 你                                                                 :drill:
 :PROPERTIES:
